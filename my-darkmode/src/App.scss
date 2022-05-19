@@ -1,0 +1,13 @@
+@use "./scss/abstract/" as *;
+
+$kalai_thala: #546347;
+.darks {
+    background-color: black;
+    height: 100vh;
+    overflow: hidden;
+    color: white;
+}
+.lights {
+    background-color: white;
+    color: black !important;
+}
